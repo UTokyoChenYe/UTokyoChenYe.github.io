@@ -22,7 +22,7 @@ repository               : "UTokyoChenYe/UTokyoChenYe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_picture.png"
+  avatar           : "my_picture.jpg"
   name             : "Ye Chen"
   pronouns         : # example: "she/her"  
   bio              : "I am a MSc student from The University of Tokyo. Nice to meet you!"
