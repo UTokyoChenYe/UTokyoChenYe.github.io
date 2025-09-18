@@ -11,7 +11,7 @@ Hi! I am a master student from [Laboratory of Large-Scale Bioinformatics, the Un
 
 I am also extremely grateful to [Dr.Wahib](https://scholar.google.com/citations?user=C3fmEegAAAAJ&hl=en) who introduced me to the world of HPC and computer vision. He is my mentor of research intern in [R-CCS RIKEN](https://www.r-ccs.riken.jp/en/).
 
-My research interests are mainly about **sequence algorithms** and **efficient computer vision**. Please check my publications or [files/CV(PDF)](Resume CHEN YE.pdf) for more information. I am open to other topics as well. If you are interested at sharing ideas and chatting with me, please feel free to send me a message!
+My research interests are mainly about **sequence algorithms** and **efficient computer vision**. Please check my publications or [CV(PDF)](files/Resume CHEN YE.pdf) for more information. I am open to other topics as well. If you are interested at sharing ideas and chatting with me, please feel free to send me a message!
 
 Recent News
 ======
