@@ -15,14 +15,23 @@ My research interests are mainly about **sequence algorithms** and **efficient c
 
 Recent News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+* *Sept, 2025.* Got my **<font color="blue">master degree</font>** at the University of Tokyo!
+* *Sept, 2025.* Giving oral presentation and poster display at IIBMP 2025. ([link](https://www.jsbi.org/iibmp2025/%e5%8f%a3%e9%a0%ad%e7%99%ba%e8%a1%a8%e3%83%8f%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%88%e3%83%88%e3%83%a9%e3%83%83%e3%82%af/))
+* *Sept, 2025.* [Adversarial Network Optimization under Bandit Feedback](https://dl.acm.org/doi/10.1145/3700413) won **<font color="red">Best Paper Award</font>** at ACM SIGMETRICS 2025 ([link](https://sigmetrics.org/awards.shtml#paperawards))!
+* *Jun, 2025.* [Incentive-Aware Dynamic Resource Allocation under Constraints](/publications/) won **<font color="red">1st Place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025 ([link](https://www.sigmetrics.org/sigmetrics2025/student_activities.html))!
+* *May, 2025.* [Non-Monetary Mechanism Design without Distributions](https://arxiv.org/abs/2502.08412) accepted to **COLT 2025**!
+* *Jan, 2025.* [Refined Best-of-Both-Worlds Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284) accepted to **ICLR 2025** as a Spotlight Paper (5.1%)!
+* *Dec, 2024.* [Adversarial Network Optimization under Bandit Feedback](https://dl.acm.org/doi/10.1145/3700413) published in the ACM journal **POMACS**!
+* *Jun, 2024.* Graduated from Tsinghua University with honor: awarded **<font color="blue">Outstanding Graduate</font>** by Beijing, by Tsinghua, and by Yao Class!
+* *May, 2024.* [Refined Linear Markov Games](https://arxiv.org/abs/2402.07082) accepted to **COLT 2024**!
+* *May, 2024.* [Adam is FTRL in Disguise](https://arxiv.org/abs/2402.01567) accepted to **ICML 2024**!
+* *Nov, 2023.* Awarded **<font color="red">Presidential Scholarship (10 undergrads per year)</font>** by Tsinghua!
+* *Sep, 2023.* [Role of Normalization in SAM](https://arxiv.org/abs/2305.15287) accepted to **NeurIPS 2023**!
+* *Sep, 2023.* Awarded **<font color="blue">"Andrew C. Yao Award" Gold Medal (1 per year)</font>** by Yao Class!
+* *Apr, 2023.* [Refined Adversarial Linear(-Q) MDPs](https://arxiv.org/abs/2301.12942) and [Banker-OMD Framework for Delayed Bandits](https://arxiv.org/abs/2301.10500) accepted to **ICML 2023**!
+* *Jan, 2023.* [Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450) accepted to **ICLR 2023**!
+* *Sep, 2022.* [FTPL in Adversarial MDPs](https://arxiv.org/abs/2205.13451) accepted to **NeurIPS 2022**!
+* *May, 2022.* [Best-of-Both-Worlds Heavy-Tailed MABs](https://arxiv.org/abs/2201.11921) accepted to **ICML 2022**!
 
 Getting started
 ======
