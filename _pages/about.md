@@ -16,22 +16,11 @@ My research interests are mainly about **sequence algorithms** and **efficient c
 Recent News
 ======
 * *Sept, 2025.* Got my **<font color="blue">master degree</font>** at the University of Tokyo!
-* *Sept, 2025.* Giving oral presentation and poster display at IIBMP 2025. ([link](https://www.jsbi.org/iibmp2025/%e5%8f%a3%e9%a0%ad%e7%99%ba%e8%a1%a8%e3%83%8f%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%88%e3%83%88%e3%83%a9%e3%83%83%e3%82%af/))
-* *Sept, 2025.* [Adversarial Network Optimization under Bandit Feedback](https://dl.acm.org/doi/10.1145/3700413) won **<font color="red">Best Paper Award</font>** at ACM SIGMETRICS 2025 ([link](https://sigmetrics.org/awards.shtml#paperawards))!
-* *Jun, 2025.* [Incentive-Aware Dynamic Resource Allocation under Constraints](/publications/) won **<font color="red">1st Place</font>** in ACM Student Research Competition (SRC), SIGMETRICS 2025 ([link](https://www.sigmetrics.org/sigmetrics2025/student_activities.html))!
-* *May, 2025.* [Non-Monetary Mechanism Design without Distributions](https://arxiv.org/abs/2502.08412) accepted to **COLT 2025**!
-* *Jan, 2025.* [Refined Best-of-Both-Worlds Heavy-Tailed MABs](https://arxiv.org/abs/2410.03284) accepted to **ICLR 2025** as a Spotlight Paper (5.1%)!
-* *Dec, 2024.* [Adversarial Network Optimization under Bandit Feedback](https://dl.acm.org/doi/10.1145/3700413) published in the ACM journal **POMACS**!
-* *Jun, 2024.* Graduated from Tsinghua University with honor: awarded **<font color="blue">Outstanding Graduate</font>** by Beijing, by Tsinghua, and by Yao Class!
-* *May, 2024.* [Refined Linear Markov Games](https://arxiv.org/abs/2402.07082) accepted to **COLT 2024**!
-* *May, 2024.* [Adam is FTRL in Disguise](https://arxiv.org/abs/2402.01567) accepted to **ICML 2024**!
-* *Nov, 2023.* Awarded **<font color="red">Presidential Scholarship (10 undergrads per year)</font>** by Tsinghua!
-* *Sep, 2023.* [Role of Normalization in SAM](https://arxiv.org/abs/2305.15287) accepted to **NeurIPS 2023**!
-* *Sep, 2023.* Awarded **<font color="blue">"Andrew C. Yao Award" Gold Medal (1 per year)</font>** by Yao Class!
-* *Apr, 2023.* [Refined Adversarial Linear(-Q) MDPs](https://arxiv.org/abs/2301.12942) and [Banker-OMD Framework for Delayed Bandits](https://arxiv.org/abs/2301.10500) accepted to **ICML 2023**!
-* *Jan, 2023.* [Variance-Aware Sparse Linear Bandits](https://arxiv.org/abs/2205.13450) accepted to **ICLR 2023**!
-* *Sep, 2022.* [FTPL in Adversarial MDPs](https://arxiv.org/abs/2205.13451) accepted to **NeurIPS 2022**!
-* *May, 2022.* [Best-of-Both-Worlds Heavy-Tailed MABs](https://arxiv.org/abs/2201.11921) accepted to **ICML 2022**!
+* *Sept, 2025.* Gave an oral presentation and poster display at IIBMP 2025. ([link](https://www.jsbi.org/iibmp2025/%e5%8f%a3%e9%a0%ad%e7%99%ba%e8%a1%a8%e3%83%8f%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%88%e3%83%88%e3%83%a9%e3%83%83%e3%82%af/))
+* *Sept, 2025.* Received **<font color="blue">HPC</font>** and **<font color="blue">parallel computing</font>** training in summer school of R-CCS RIKEN and earned a certificate. ([link](http://www.eccse.kobe-u.ac.jp/simulation_school/kobe-hpc-summer-basic-2025/index.html))
+* *Dec, 2024.* [The Statistics of Parametrized Syncmers in a Simple Mutation Process Without Spurious Matches](https://pubmed.ncbi.nlm.nih.gov/39530391/) accepted by journal **<font color="blue">Journal of Computational Biology</font>**.
+* *Jun, 2024.* [A Light-Weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-3-031-81854-7_6) accepted by conference **<font color="blue">CVPR 2024 workshop</font>**: Segment Anything in Medical Images on Laptop and won [Meritorious Winner Award(PDF)](CVPR24-MedSAMonLaptop-Awards.pdf)! ([link](https://www.codabench.org/competitions/1847/))
+
 
 Getting started
 ======
