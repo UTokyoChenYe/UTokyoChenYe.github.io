@@ -25,20 +25,54 @@ Recent News
 
 Education
 ======
-<table>
-  <tr>
-    <td><strong>The University of Tokyo</strong>, Japan</td>
-    <td>Master of Science in Sequence Algorithms - Oct. 2022 to Sep. 2025</td>
-    <td><img src="images/UTokyo.jpg" alt="The University of Tokyo" style="height:50px;"></td>
-  </tr>
-  <tr>
-    <td><strong>Waseda University</strong>, Japan</td>
-    <td>Master of Engineering in Data Mining - Oct. 2020 to Sep. 2022</td>
-    <td><img src="images/Waseda.jpg" alt="Waseda University" style="height:50px;"></td>
-  </tr>
-  <tr>
-    <td><strong>Beijing Institute of Technology</strong>, China</td>
-    <td>Bachelor of Science in Electric Engineering - Sep. 2017 to Jun. 2021</td>
-    <td><img src="images/BIT.jpg" alt="Beijing Institute of Technology" style="height:50px;"></td>
-  </tr>
-</table>
+<style>
+  .edu-entry {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 16px;  /* 控制字体大小 */
+  }
+
+  .edu-text {
+    max-width: 80%;
+  }
+
+  .edu-text strong {
+    font-size: 18px;
+  }
+
+  .edu-logo img {
+    height: 50px;
+  }
+</style>
+
+<div class="edu-entry">
+  <div class="edu-text">
+    <strong>The University of Tokyo</strong>, Japan<br>
+    Master of Science in Sequence Algorithms - Oct. 2022 to Sep. 2025
+  </div>
+  <div class="edu-logo">
+    <img src="images/UTokyo.jpg" alt="The University of Tokyo logo">
+  </div>
+</div>
+
+<div class="edu-entry">
+  <div class="edu-text">
+    <strong>Waseda University</strong>, Japan<br>
+    Master of Engineering in Data Mining - Oct. 2020 to Sep. 2022
+  </div>
+  <div class="edu-logo">
+    <img src="images/Waseda.jpg" alt="Waseda University logo">
+  </div>
+</div>
+
+<div class="edu-entry">
+  <div class="edu-text">
+    <strong>Beijing Institute of Technology</strong>, China<br>
+    Bachelor of Science in Electric Engineering - Sep. 2017 to Jun. 2021
+  </div>
+  <div class="edu-logo">
+    <img src="images/BIT.jpg" alt="Beijing Institute of Technology logo">
+  </div>
+</div>
