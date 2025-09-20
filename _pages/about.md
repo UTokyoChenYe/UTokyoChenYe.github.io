@@ -44,7 +44,7 @@ Education
   }
 
   .edu-logo img {
-    height: 1.75em;
+    height: 2em;
     object-fit: contain;
     vertical-align: middle;
   }
