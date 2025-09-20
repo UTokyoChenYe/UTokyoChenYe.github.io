@@ -22,3 +22,23 @@ Recent News
 * *Dec, 2024.* Got **<font color="blue">AI engineer intern</font>** offer from camera algorithm team, 2012 Laboratory, **<font color="blue">Huawei Japan</font>**!
 * *Dec, 2024.* [The Statistics of Parametrized Syncmers in a Simple Mutation Process Without Spurious Matches](https://pubmed.ncbi.nlm.nih.gov/39530391/) accepted by journal **<font color="blue">Journal of Computational Biology</font>**!
 * *Jun, 2024.* [A Light-Weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-3-031-81854-7_6) accepted by conference **<font color="blue">CVPR 2024 workshop</font>**: Segment Anything in Medical Images on Laptop([link](https://www.codabench.org/competitions/1847/)) and won [Meritorious Winner Award(PDF)](files/CVPR24-MedSAMonLaptop-Awards.pdf)! 
+
+Education
+======
+<table>
+  <tr>
+    <td><strong>The University of Tokyo</strong>, Japan</td>
+    <td>Master of Science in Sequence Algorithms - Oct. 2022 to Sep. 2025</td>
+    <td><img src="images/UTokyo.jpg" alt="The University of Tokyo" style="height:50px;"></td>
+  </tr>
+  <tr>
+    <td><strong>Waseda University</strong>, Japan</td>
+    <td>Master of Engineering in Data Mining - Oct. 2020 to Sep. 2022</td>
+    <td><img src="images/Waseda.jpg" alt="Waseda University" style="height:50px;"></td>
+  </tr>
+  <tr>
+    <td><strong>Beijing Institute of Technology</strong>, China</td>
+    <td>Bachelor of Science in Electric Engineering - Sep. 2017 to Jun. 2021</td>
+    <td><img src="images/BIT.jpg" alt="Beijing Institute of Technology" style="height:50px;"></td>
+  </tr>
+</table>
