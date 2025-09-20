@@ -30,20 +30,34 @@ Education
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-bottom: 20px;
-    font-size: 16px;  /* 控制字体大小 */
+    margin-bottom: 1.5em;
+    font-size: 1em; /* Inherit from site-wide font size */
+    line-height: 1.5;
   }
 
   .edu-text {
-    max-width: 80%;
+    max-width: 85%;
   }
 
   .edu-text strong {
-    font-size: 18px;
+    font-size: 1.1em;
   }
 
   .edu-logo img {
-    height: 50px;
+    height: 1.25em;
+    object-fit: contain;
+    vertical-align: middle;
+  }
+
+  @media screen and (max-width: 600px) {
+    .edu-entry {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .edu-logo {
+      margin-top: 0.5em;
+    }
   }
 </style>
 
@@ -53,7 +67,7 @@ Education
     Master of Science in Sequence Algorithms - Oct. 2022 to Sep. 2025
   </div>
   <div class="edu-logo">
-    <img src="images/UTokyo.jpg" alt="The University of Tokyo logo">
+    <img src="{{ '/images/UTokyo.jpg' | relative_url }}" alt="The University of Tokyo logo">
   </div>
 </div>
 
@@ -63,7 +77,7 @@ Education
     Master of Engineering in Data Mining - Oct. 2020 to Sep. 2022
   </div>
   <div class="edu-logo">
-    <img src="images/Waseda.jpg" alt="Waseda University logo">
+    <img src="{{ '/images/Waseda.jpg' | relative_url }}" alt="Waseda University logo">
   </div>
 </div>
 
@@ -73,6 +87,6 @@ Education
     Bachelor of Science in Electric Engineering - Sep. 2017 to Jun. 2021
   </div>
   <div class="edu-logo">
-    <img src="images/BIT.jpg" alt="Beijing Institute of Technology logo">
+    <img src="{{ '/images/BIT.jpg' | relative_url }}" alt="Beijing Institute of Technology logo">
   </div>
 </div>
