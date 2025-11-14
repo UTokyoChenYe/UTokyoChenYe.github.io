@@ -21,7 +21,7 @@ Recent News
 * *May, 2025.* Got **<font color="blue">research intern</font>** offer from High Performance Artificial Intelligence Systems Research Team, **<font color="blue">RIKEN</font>**!
 * *Dec, 2024.* Got **<font color="blue">AI engineer intern</font>** offer from camera algorithm team, 2012 Laboratory, **<font color="blue">Huawei Japan</font>**!
 * *Dec, 2024.* [The Statistics of Parametrized Syncmers in a Simple Mutation Process Without Spurious Matches](https://pubmed.ncbi.nlm.nih.gov/39530391/) accepted by journal **<font color="blue">Journal of Computational Biology</font>**!
-* *Jun, 2024.* [A Light-Weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-3-031-81854-7_6) accepted by conference **<font color="blue">CVPR 2024 workshop</font>**: Segment Anything in Medical Images on Laptop([link](https://www.codabench.org/competitions/1847/)) and won [Meritorious Winner Award(PDF)](files/CVPR2024-Workshop-Awards.pdf)! 
+* *Jun, 2024.* [A Light-Weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-3-031-81854-7_6) accepted by conference **<font color="blue">CVPR 2024 workshop: Segment Anything in Medical Images on Laptop</font>**([link](https://www.codabench.org/competitions/1847/)) and won [Meritorious Winner Award(PDF)](files/CVPR2024-Workshop-Awards.pdf)! 
 
 Education
 ======
