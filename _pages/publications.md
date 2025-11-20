@@ -16,5 +16,5 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=jG-N
 
 ## Conference Publications
 *   **[A Light-Weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-3-031-81854-7_6)**  
-    Songxiao Yang, Yizhou Li, **<font color="blue">Ye Chen*</font>**, Zhuofeng Wu and Masatoshi Okutomi.  
+    Songxiao Yang, Yizhou Li, **<font color="blue">Ye Chen</font>**, Zhuofeng Wu and Masatoshi Okutomi.  
     Accepted to conference workshop **CVPR 2024 Challenge: Segment Anything in Medical Images on Laptop**.  
