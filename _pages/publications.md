@@ -7,8 +7,6 @@ author_profile: true
 
 Check my [Google Scholar profile](https://scholar.google.com/citations?user=jG-NdUAAAAAJ&hl=zh-CN) for more information!
 
-(* stands for equal contribution. Listed reverse chronologically.)
-
 ## Journal Publications and Working Papers
 *   **[The Statistics of Parametrized Syncmers in a Simple Mutation Process Without Spurious Matches](https://pubmed.ncbi.nlm.nih.gov/39530391/)**  
     John L Spouge, Pijush Das, **<font color="blue">Ye Chen</font>** and Martin Frith.  
