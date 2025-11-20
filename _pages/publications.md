@@ -12,7 +12,7 @@ Check my [Google Scholar profile](https://scholar.google.com/citations?user=gkG4
 ## Journal Publications and Working Papers
 *   **[The Statistics of Parametrized Syncmers in a Simple Mutation Process Without Spurious Matches](https://pubmed.ncbi.nlm.nih.gov/39530391/)**  
     John L Spouge, Pijush Das, **<font color="blue">Ye Chen</font>** and Martin Frith.  
-    In *Journal of Computational Biology*, 2024 Dec;31(12):1195-1210. doi: 10.1089/cmb.2024.0508.  
+    In *Journal of Computational Biology*, 2024 Dec;31(12):1195-1210.  
 
 ## Conference Publications
 *   **[A Light-Weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation](https://link.springer.com/chapter/10.1007/978-3-031-81854-7_6)**  
