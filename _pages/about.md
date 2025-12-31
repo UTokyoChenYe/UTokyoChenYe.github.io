@@ -179,7 +179,7 @@ Internship
 <div class="exp-entry">
   <div class="exp-text">
     <strong>Huawei</strong>, Japan<br>
-    Tokyo Research Center, Camera Algorithms Lab
+    Tokyo Research Center, Camera Algorithms Lab<br>
     AI Engineer, Computer Version / Image Processing - Dec. 2024 to Nov. 2025
   </div>
   <div class="exp-logo">
@@ -190,7 +190,7 @@ Internship
 <div class="exp-entry">
   <div class="exp-text">
     <strong>RIKEN</strong>, Japan<br>
-    High Performance Artificial Intelligence Systems Research Team
+    High Performance Artificial Intelligence Systems Research Team<br>
     Research Intern, CV Model Acceleration - May. 2025 to Sep. 2025
   </div>
   <div class="exp-logo">
@@ -201,7 +201,7 @@ Internship
 <div class="exp-entry">
   <div class="exp-text">
     <strong>OPPO</strong>, Japan<br>
-    Japan Research Center, MLSys team
+    Japan Research Center, MLSys Team<br>
     AI Engineer, Model Compression - Feb. 20254 to May. 2024
   </div>
   <div class="exp-logo">
@@ -212,7 +212,7 @@ Internship
 <div class="exp-entry">
   <div class="exp-text">
     <strong>Baidu</strong>, China<br>
-    Search Engine Department
+    Search Engine Department<br>
     Algorithm Engineer Intern, Machine Learning - Apr. 2023 to Aug. 2023
   </div>
   <div class="exp-logo">
