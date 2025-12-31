@@ -16,7 +16,7 @@ My research interests are mainly about **sequence algorithms** and **efficient c
 Recent News
 ======
 * *Sept, 2025.* Got my **<font color="blue">master degree</font>** at **<font color="blue">the University of Tokyo</font>**!
-* *Sept, 2025.* Gave an oral presentation and poster display at **<font color="blue">IIBMP 2025</font>**([link](https://www.jsbi.org/iibmp2025/%e5%8f%a3%e9%a0%ad%e7%99%ba%e8%a1%a8%e3%83%8f%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%88%e3%83%88%e3%83%a9%e3%83%83%e3%82%af/)). 
+* *Sept, 2025.* Gave an oral presentation and poster display at **<font color="blue">IIBMP 2025</font>**. 
 * *Sept, 2025.* Received **<font color="blue">HPC</font>** and **<font color="blue">parallel computing</font>** training in summer school of R-CCS RIKEN([link](http://www.eccse.kobe-u.ac.jp/simulation_school/kobe-hpc-summer-basic-2025/index.html)) and earned a certificate. 
 * *May, 2025.* Got **<font color="blue">research intern</font>** offer from High Performance Artificial Intelligence Systems Research Team, **<font color="blue">RIKEN</font>**!
 * *Dec, 2024.* Got **<font color="blue">AI engineer intern</font>** offer from camera algorithm team, 2012 Laboratory, **<font color="blue">Huawei Japan</font>**!
