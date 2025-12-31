@@ -91,7 +91,7 @@ Education
   </div>
 </div>
 
-Internship Experience
+Internship
 ======
 <style>
   .exp-entry {
@@ -131,8 +131,8 @@ Internship Experience
 
 <div class="exp-entry">
   <div class="exp-text">
-    <strong>Huawei Technologies</strong>, Japan<br>
-    Research Intern, AI Acceleration / Image Processing — 2025
+    <strong>Huawei, Tokyo Research Center, Camera Algorithms Lab</strong>, Japan<br>
+    AI Engineer, Computer Version / Image Processing - Dec. 2024 to Nov. 2025
   </div>
   <div class="exp-logo">
     <img src="{{ '/images/Huawei.jpg' | relative_url }}" alt="Huawei logo">
@@ -141,8 +141,8 @@ Internship Experience
 
 <div class="exp-entry">
   <div class="exp-text">
-    <strong>RIKEN</strong>, Japan<br>
-    Research Intern, Deep Learning Model Acceleration — 2024
+    <strong>RIKEN, High Performance Artificial Intelligence Systems Research Team</strong>, Japan<br>
+    Research Intern, CV Model Acceleration - May. 2025 to Sep. 2025
   </div>
   <div class="exp-logo">
     <img src="{{ '/images/RIKEN.jpg' | relative_url }}" alt="RIKEN logo">
@@ -151,8 +151,8 @@ Internship Experience
 
 <div class="exp-entry">
   <div class="exp-text">
-    <strong>OPPO</strong>, China<br>
-    Algorithm Engineer Intern, Computer Vision — 2023–2024
+    <strong>OPPO, Japan Research Center, MLSys team</strong>, Japan<br>
+    AI Engineer, Model Compression - Feb. 20254 to May. 2024
   </div>
   <div class="exp-logo">
     <img src="{{ '/images/OPPO.jpg' | relative_url }}" alt="OPPO logo">
@@ -161,8 +161,8 @@ Internship Experience
 
 <div class="exp-entry">
   <div class="exp-text">
-    <strong>Baidu</strong>, China<br>
-    Algorithm Engineer Intern, Machine Learning — 2022
+    <strong>Baidu, Search Engine Department</strong>, China<br>
+    Algorithm Engineer Intern, Machine Learning - Apr. 2023 to Aug. 2023
   </div>
   <div class="exp-logo">
     <img src="{{ '/images/Baidu.jpg' | relative_url }}" alt="Baidu logo">
