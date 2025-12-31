@@ -93,7 +93,7 @@ Education
 
 Internship
 ======
-<style>
+<!-- <style>
   .exp-entry {
     display: flex;
     justify-content: space-between;
@@ -125,6 +125,53 @@ Internship
 
     .exp-logo {
       margin-top: 0.5em;
+    }
+  }
+</style> -->
+
+<style>
+  .exp-entry {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5em;
+    font-size: 1em;
+    line-height: 1.5;
+  }
+
+  .exp-text {
+    max-width: 85%;
+  }
+
+  .exp-text strong {
+    font-size: 1.1em;
+  }
+
+  /* 【核心改动 1】给 logo 一个统一的“视觉容器” */
+  .exp-logo {
+    width: 6em;              /* 统一右侧视觉宽度 */
+    text-align: right;       /* logo 靠右，更像 CV */
+    flex-shrink: 0;          /* 防止被压缩 */
+  }
+
+  /* 【核心改动 2】控制 logo 在容器内的最大视觉尺寸 */
+  .exp-logo img {
+    max-height: 3.5em;       /* 统一视觉高度 */
+    max-width: 100%;         /* 不超过容器宽度 */
+    object-fit: contain;
+    vertical-align: middle;
+  }
+
+  @media screen and (max-width: 600px) {
+    .exp-entry {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .exp-logo {
+      margin-top: 0.5em;
+      width: auto;           /* 手机端放开宽度限制 */
+      text-align: left;
     }
   }
 </style>
