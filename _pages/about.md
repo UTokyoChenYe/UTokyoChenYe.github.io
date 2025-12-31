@@ -183,7 +183,7 @@ Internship
     AI Engineer, Computer Version / Image Processing - Dec. 2024 to Nov. 2025
   </div>
   <div class="exp-logo">
-    <img src="{{ '/images/Huawei.jpg' | relative_url }}" alt="Huawei logo">
+    <img src="{{ '/images/Huawei-1.jpg' | relative_url }}" alt="Huawei logo">
   </div>
 </div>
 
@@ -194,7 +194,7 @@ Internship
     Research Intern, CV Model Acceleration - May. 2025 to Sep. 2025
   </div>
   <div class="exp-logo">
-    <img src="{{ '/images/RIKEN.jpg' | relative_url }}" alt="RIKEN logo">
+    <img src="{{ '/images/RIKEN-1.jpg' | relative_url }}" alt="RIKEN logo">
   </div>
 </div>
 
