@@ -64,7 +64,8 @@ Education
 <div class="edu-entry">
   <div class="edu-text">
     <strong>The University of Tokyo</strong>, Japan<br>
-    Master of Science in Sequence Algorithms - Oct. 2022 to Sep. 2025
+    Master of Science in Sequence Algorithms<br>
+    Oct. 2022 to Sep. 2025
   </div>
   <div class="edu-logo">
     <img src="{{ '/images/UTokyo.jpg' | relative_url }}" alt="The University of Tokyo logo">
@@ -74,7 +75,8 @@ Education
 <div class="edu-entry">
   <div class="edu-text">
     <strong>Waseda University</strong>, Japan<br>
-    Master of Engineering in Data Mining - Oct. 2020 to Sep. 2022
+    Master of Engineering in Data Mining<br>
+    Oct. 2020 to Sep. 2022
   </div>
   <div class="edu-logo">
     <img src="{{ '/images/Waseda.jpg' | relative_url }}" alt="Waseda University logo">
@@ -84,7 +86,8 @@ Education
 <div class="edu-entry">
   <div class="edu-text">
     <strong>Beijing Institute of Technology</strong>, China<br>
-    Bachelor of Science in Electric Engineering - Sep. 2017 to Jun. 2021
+    Bachelor of Science in Electric Engineering<br>
+    Sep. 2017 to Jun. 2021
   </div>
   <div class="edu-logo">
     <img src="{{ '/images/BIT.jpg' | relative_url }}" alt="Beijing Institute of Technology logo">
@@ -94,42 +97,6 @@ Education
 Internship
 ======
 <!-- <style>
-  .exp-entry {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 1.5em;
-    font-size: 1em;
-    line-height: 1.5;
-  }
-
-  .exp-text {
-    max-width: 85%;
-  }
-
-  .exp-text strong {
-    font-size: 1.1em;
-  }
-
-  .exp-logo img {
-    height: 4em;
-    object-fit: contain;
-    vertical-align: middle;
-  }
-
-  @media screen and (max-width: 600px) {
-    .exp-entry {
-      flex-direction: column;
-      align-items: flex-start;
-    }
-
-    .exp-logo {
-      margin-top: 0.5em;
-    }
-  }
-</style> -->
-
-<style>
   .exp-entry {
     display: flex;
     justify-content: space-between;
@@ -218,4 +185,107 @@ Internship
   <div class="exp-logo">
     <img src="{{ '/images/Baidu.jpg' | relative_url }}" alt="Baidu logo">
   </div>
+</div> -->
+
+Internship
+======
+<style>
+  .exp-entry {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5em;
+    font-size: 1em;
+    line-height: 1.5;
+  }
+
+  .exp-text {
+    max-width: 85%;
+  }
+
+  .exp-text strong {
+    font-size: 1.1em;
+  }
+
+  /* 统一右侧 logo 的“视觉列” */
+  .exp-logo {
+    width: 6em;
+    text-align: right;
+    flex-shrink: 0;
+  }
+
+  /* 基础统一规则（OPPO / Baidu 等横向 logo） */
+  .exp-logo img {
+    max-height: 3.5em;
+    max-width: 100%;
+    object-fit: contain;
+    vertical-align: middle;
+  }
+
+  /* 精细校正：偏方形、留白多的 logo（Huawei / RIKEN） */
+  .large-logo img {
+    max-height: 4.2em;
+  }
+
+  @media screen and (max-width: 600px) {
+    .exp-entry {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .exp-logo {
+      margin-top: 0.5em;
+      width: auto;
+      text-align: left;
+    }
+  }
+</style>
+
+<div class="exp-entry">
+  <div class="exp-text">
+    <strong>Huawei</strong>, Japan<br>
+    Tokyo Research Center, Camera Algorithms Lab<br>
+    AI Engineer, Computer Vision / Image Processing<br>
+    Dec. 2024 to Nov. 2025
+  </div>
+  <div class="exp-logo large-logo">
+    <img src="{{ '/images/Huawei-1.jpg' | relative_url }}" alt="Huawei logo">
+  </div>
 </div>
+
+<div class="exp-entry">
+  <div class="exp-text">
+    <strong>RIKEN</strong>, Japan<br>
+    High Performance Artificial Intelligence Systems Research Team<br>
+    Research Intern, CV Model Acceleration<br>
+    May 2025 to Sep. 2025
+  </div>
+  <div class="exp-logo large-logo">
+    <img src="{{ '/images/RIKEN-1.jpg' | relative_url }}" alt="RIKEN logo">
+  </div>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-text">
+    <strong>OPPO</strong>, Japan<br>
+    Japan Research Center, MLSys Team<br>
+    AI Engineer, Model Compression<br>
+    Feb. 2024 to May 2024
+  </div>
+  <div class="exp-logo">
+    <img src="{{ '/images/OPPO.jpg' | relative_url }}" alt="OPPO logo">
+  </div>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-text">
+    <strong>Baidu</strong>, China<br>
+    Search Engine Department<br>
+    Algorithm Engineer Intern, Machine Learning<br>
+    Apr. 2023 to Aug. 2023
+  </div>
+  <div class="exp-logo">
+    <img src="{{ '/images/Baidu.jpg' | relative_url }}" alt="Baidu logo">
+  </div>
+</div>
+
