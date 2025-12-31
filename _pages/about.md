@@ -131,7 +131,7 @@ Internship
 
   /* 精细校正：偏方形、留白多的 logo（Huawei / RIKEN） */
   .large-logo img {
-    max-height: 4.2em;
+    max-height: 4.5em; /*4.2*/
   }
 
   @media screen and (max-width: 600px) {
