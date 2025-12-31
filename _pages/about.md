@@ -90,3 +90,81 @@ Education
     <img src="{{ '/images/BIT.jpg' | relative_url }}" alt="Beijing Institute of Technology logo">
   </div>
 </div>
+
+Internship Experience
+======
+<style>
+  .exp-entry {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5em;
+    font-size: 1em;
+    line-height: 1.5;
+  }
+
+  .exp-text {
+    max-width: 85%;
+  }
+
+  .exp-text strong {
+    font-size: 1.1em;
+  }
+
+  .exp-logo img {
+    height: 4em;
+    object-fit: contain;
+    vertical-align: middle;
+  }
+
+  @media screen and (max-width: 600px) {
+    .exp-entry {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .exp-logo {
+      margin-top: 0.5em;
+    }
+  }
+</style>
+
+<div class="exp-entry">
+  <div class="exp-text">
+    <strong>Huawei Technologies</strong>, Japan<br>
+    Research Intern, AI Acceleration / Image Processing — 2025
+  </div>
+  <div class="exp-logo">
+    <img src="{{ '/images/Huawei.jpg' | relative_url }}" alt="Huawei logo">
+  </div>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-text">
+    <strong>RIKEN</strong>, Japan<br>
+    Research Intern, Deep Learning Model Acceleration — 2024
+  </div>
+  <div class="exp-logo">
+    <img src="{{ '/images/RIKEN.jpg' | relative_url }}" alt="RIKEN logo">
+  </div>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-text">
+    <strong>OPPO</strong>, China<br>
+    Algorithm Engineer Intern, Computer Vision — 2023–2024
+  </div>
+  <div class="exp-logo">
+    <img src="{{ '/images/OPPO.jpg' | relative_url }}" alt="OPPO logo">
+  </div>
+</div>
+
+<div class="exp-entry">
+  <div class="exp-text">
+    <strong>Baidu</strong>, China<br>
+    Algorithm Engineer Intern, Machine Learning — 2022
+  </div>
+  <div class="exp-logo">
+    <img src="{{ '/images/Baidu.jpg' | relative_url }}" alt="Baidu logo">
+  </div>
+</div>
